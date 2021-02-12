@@ -1,0 +1,2 @@
+# NewsAggregator
+Django Application 
